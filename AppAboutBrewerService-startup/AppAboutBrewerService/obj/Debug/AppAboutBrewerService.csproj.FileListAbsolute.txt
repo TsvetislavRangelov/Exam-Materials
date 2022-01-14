@@ -1,0 +1,6 @@
+C:\Users\boris\exam 2021 june\AppAboutBrewerService-startup\AppAboutBrewerService\obj\Debug\AppAboutBrewerService.csprojAssemblyReference.cache
+C:\Users\boris\exam 2021 june\AppAboutBrewerService-startup\AppAboutBrewerService\obj\Debug\AppAboutBrewerService.Form1.resources
+C:\Users\boris\exam 2021 june\AppAboutBrewerService-startup\AppAboutBrewerService\obj\Debug\AppAboutBrewerService.FormBrewer.resources
+C:\Users\boris\exam 2021 june\AppAboutBrewerService-startup\AppAboutBrewerService\obj\Debug\AppAboutBrewerService.Properties.Resources.resources
+C:\Users\boris\exam 2021 june\AppAboutBrewerService-startup\AppAboutBrewerService\obj\Debug\AppAboutBrewerService.csproj.GenerateResource.cache
+C:\Users\boris\exam 2021 june\AppAboutBrewerService-startup\AppAboutBrewerService\obj\Debug\AppAboutBrewerService.csproj.CoreCompileInputs.cache
